@@ -128,6 +128,12 @@ cryptography
 
 tk
 
+***OUTPUT***:
+
+![Image](https://github.com/user-attachments/assets/cda083ec-1dfc-43be-93ae-d57c591f1a1f)
+![Image](https://github.com/user-attachments/assets/fd5daa93-fa23-446b-95ae-aad71434149f)
+![Image](https://github.com/user-attachments/assets/c49d3f79-38f1-4847-a27b-c045aff5c64a)
+
 
 ***FINAL THOUGHTS***:
 
